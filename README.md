@@ -47,7 +47,7 @@ See [EXAMPLE.md](EXAMPLE.md) for a sample surgeon-reviewer report — and [BENCH
 This is 3 of 12 agents + 3 multi-agent orchestration workflows
 (PR pipeline, legacy-system rescue, release-day pipeline).
 
-**Full pack: $19** — launching soon on Gumroad. Watch this repo to get notified.
+**Full pack: $19** → [Get it on Gumroad](https://howlstone2405.gumroad.com/l/cvlqdq) (12 agents + 3 workflows, v1.x updates included)
 
 ## License
 

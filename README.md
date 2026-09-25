@@ -40,7 +40,7 @@ Free agent configs are everywhere. Three things make these worth your disk space
 3. **Acceptance criteria built in.** Each agent knows how to check its own output,
    so you get verdicts (`SHIP` / `DO NOT SHIP`), not essays.
 
-See [EXAMPLE.md](EXAMPLE.md) for a sample surgeon-reviewer report on a realistic PR.
+See [EXAMPLE.md](EXAMPLE.md) for a sample surgeon-reviewer report — and [BENCHMARK.md](BENCHMARK.md) for the full OWASP NodeGoat run (official vulnerability list: zero misses).
 
 ## Full pack
 
